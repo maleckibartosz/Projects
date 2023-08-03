@@ -12,12 +12,12 @@ This is my first project during which i tested both process of registration and 
 ## Bug Reports
 [Reports of defects found in Guru99 Bank App]()
 
-### Tools
-[Qase]() - to create test cases & test runs<br>
-[Jira]() - to create bug raports<br>
-[DaneTestowe]() - to generate dana provided in test cases<br>
-Screenshot App (default macOS app) - to present actual results in bug reports<br>
+## Tools
+> [Qase]() - to create test cases & test runs<br>
+> [Jira]() - to create bug raports<br>
+> [DaneTestowe]() - to generate dana provided in test cases<br>
+> Screenshot App (default macOS app) - to present actual results in bug reports<br>
 
-### Environment
-Google Chrome Version 115.0.5790.114 (Official version) (x86_64)<br>
-macOS Ventura 13.4.1 (c)
+## Environment
+> Google Chrome Version 115.0.5790.114 (Official version) (x86_64)<br>
+> macOS Ventura 13.4.1 (c)
