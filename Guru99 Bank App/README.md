@@ -31,7 +31,7 @@ During this project I've tested both process of registration and modules found i
 ## Tools
 [Qase]() - to create test cases & test runs<br>
 [Jira]() - to create bug raports<br>
-[DaneTestowe]() - to generate dana provided in test cases<br>
+[DaneTestowe]() - to generate data provided in test cases<br>
 Screenshot App (default macOS app) - to present actual results in bug reports<br>
 
 ## Environment
