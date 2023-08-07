@@ -19,7 +19,7 @@ During this project I've tested both process of registration and modules found i
 [SRS v4.0]()
 
 ## Test Cases
-[Test cases provided to Guru99 Bank App]()
+[Test cases provided to Guru99 Bank App](https://github.com/maleckibartosz/Projects/tree/main/Guru99%20Bank%20App/Test%20Cases)
 
 ## Test Runs
 [Test run performed for Guru99 Bank App test cases](https://app.qase.io/public/report/59ad2e3d8dd205fac4ffd96f9726300b7c4143ee)
