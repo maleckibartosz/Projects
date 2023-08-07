@@ -1,7 +1,8 @@
 # Guru99 Banking Application
 >it is a part of live projects provided by [Guru99](https://www.guru99.com/l)
 
-This is my first project during which i tested both process of registration and modules found in the project documentation, such as:
+During this project I've tested both process of registration and modules found in the project documentation consistent with the rights of the managerial account, such as:
+
 * Registration,
 * Login & Log out,
 * New/Edit/Delete Customer,
@@ -14,8 +15,6 @@ This is my first project during which i tested both process of registration and 
 * Mini Statement and
 * Customised Statement.
   
-    - each of functionalities were tested within the manager's account.
-
 ## Documentation
 [SRS v4.0]()
 
