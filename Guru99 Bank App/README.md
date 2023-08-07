@@ -1,17 +1,30 @@
 # Guru99 Banking Application
-  * it is a part of live projects provided by [Guru99](https://www.guru99.com/l)
+>it is a part of live projects provided by [Guru99](https://www.guru99.com/l)
 
-This is my first project during which i tested both process of registration and modules found in the project documentation.
+This is my first project during which i tested both process of registration and modules found in the project documentation, such as:
+* Registration,
+* Login & Log out,
+* New/Edit/Delete Customer,
+* New/Edit/Delete Account,
+* Deposit,
+* Withdrawal,
+* Fund Transfer,
+* Change Password,
+* Balance Enquiry,
+* Mini Statement and
+* Customised Statement.
+  
+    - each of functionalities were tested within the manager's account.
 
 ## Documentation
-[SRS version 4.0]()
+[SRS v4.0]()
 
 ## Test Cases
 [Test cases provided to Guru99 Bank App]()
 
 ## Test Runs
-[Test run provided after execution of test cases](https://app.qase.io/public/report/59ad2e3d8dd205fac4ffd96f9726300b7c4143ee)
-  * due to some circumstances, adding a PDF version of the report is not possible at this time.
+[Test run performed for Guru99 Bank App test cases](https://app.qase.io/public/report/59ad2e3d8dd205fac4ffd96f9726300b7c4143ee)
+  * due to contingencies, adding a PDF version of the report is not possible at this time.
 
 ## Bug Reports
 [Reports of defects found in Guru99 Bank App]()
